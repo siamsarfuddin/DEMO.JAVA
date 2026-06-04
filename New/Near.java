@@ -37,5 +37,7 @@ public class Near {
          System.out.println("you name is"+name);
          System.out.println("siam sarfuddin seheikh");
          System.out.println("siam sarfuddin seheikh");
+         System.out.println("siam sarfuddin seheikh");
+    
     }
 }
