@@ -30,10 +30,11 @@ public class Near {
         for (int i = 0; i < 5; i++) {
             System.out.println(number[i]);
         }
-
+        in.nextLine();
         double siam=in.nextDouble();
         System.out.println(siam);
-
+        in.nextLine();
          System.out.println("you name is"+name);
+         System.out.println("siam sarfuddin seheikh");
     }
 }
