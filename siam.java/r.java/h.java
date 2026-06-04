@@ -24,5 +24,6 @@ public class h {
 
         int sum = Sum(a, b);
         System.out.println(sum);
+        System.out.print("this is good");
     }
 }
