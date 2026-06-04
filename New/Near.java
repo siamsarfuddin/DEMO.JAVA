@@ -42,5 +42,6 @@ public class Near {
         System.out.println("siam sarfuddin seheikh");
         System.out.println("siam sarfuddin seheikh");
         System.out.println("siam sarfuddin seheikh");
+         System.out.println("siam sarfuddin seheikh");
     }
 }
