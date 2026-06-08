@@ -4,14 +4,17 @@ import java.util.*;
 public class b {
 
     public static void main(String[] args) {
-        int number = 13;
+       Scanner sc=new Scanner(System.in)
 
+    int a =sc.nextInt();
+
+    System.out.println("this is great number"+a);
 
         for(int i=0;i<13;i++){
 
  
         if ((i% 2 == 0&& i%3==0)||(i%5==0&& i%6==0)) {
-            
+
             System.out.println("this is an even numberS " +i);
         }
         
